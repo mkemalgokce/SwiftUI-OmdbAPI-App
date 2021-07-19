@@ -1,7 +1,7 @@
 # SwiftUI-OmdbAPI-App
  
 # TR
-SwiftUI ile gelistirildi. Omdb API'sinden yararlanildi.
+SwiftUI ile gelistirildi. Omdb API'den yararlanildi.
 
 # API
 OMDB API :http://www.omdbapi.com
